@@ -1,3 +1,3 @@
-# Notebooks for Algorithm
+# Some Python Notebooks
 
 - [Binary Search](binary_search.ipynb)
